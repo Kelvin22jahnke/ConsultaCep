@@ -1,0 +1,13 @@
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\obj\Debug\ConsultaCep.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\obj\Debug\ConsultaCep.Properties.Resources.resources
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\obj\Debug\ConsultaCep.csproj.GenerateResource.cache
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\obj\Debug\ConsultaCep.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\bin\Debug\ConsultaCep.exe.config
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\bin\Debug\ConsultaCep.exe
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\bin\Debug\ConsultaCep.pdb
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\obj\Debug\ConsultaCep.csproj.CopyComplete
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\obj\Debug\ConsultaCep.exe
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\obj\Debug\ConsultaCep.pdb
+C:\Users\Kelvin\source\repos\ConsultaCep\ConsultaCep\obj\Debug\ConsultaCep.frmConsultaCep.resources
